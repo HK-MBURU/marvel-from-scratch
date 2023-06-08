@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/maven/static/css/main.4e030536.css",
+    "main.js": "/maven/static/js/main.3efe62e2.js",
+    "index.html": "/maven/index.html",
+    "main.4e030536.css.map": "/maven/static/css/main.4e030536.css.map",
+    "main.3efe62e2.js.map": "/maven/static/js/main.3efe62e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e030536.css",
+    "static/js/main.3efe62e2.js"
+  ]
+}
